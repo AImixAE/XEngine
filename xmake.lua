@@ -7,5 +7,4 @@ elseif is_mode("release") then
     add_defines("XE_RELEASE")
 end
 
-add_includedirs("Module/spdlog/include")
 includes("XEngine")
