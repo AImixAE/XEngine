@@ -7,4 +7,5 @@ elseif is_mode("release") then
     add_defines("XE_RELEASE")
 end
 
+set_targetdir("Build")
 includes("XEngine")
