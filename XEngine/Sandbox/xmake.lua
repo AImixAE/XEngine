@@ -1,4 +1,4 @@
-add_includedirs("Include", "$(projectdir)/Core/Include")
+add_includedirs("Include", "$(projectdir)/XEngine/Core/Include")
 
 target("Sandbox")
     set_kind("binary")
